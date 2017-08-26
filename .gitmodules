@@ -1,0 +1,3 @@
+[submodule "albums"]
+	path = albums
+	url = ./albums
