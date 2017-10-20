@@ -1,3 +1,6 @@
 [submodule "albums"]
 	path = albums
 	url = https://github.com/kalyandechiraju/albums.git
+[submodule "AuthDemo"]
+	path = AuthDemo
+	url = https://github.com/kalyandechiraju/AuthDemo.git
